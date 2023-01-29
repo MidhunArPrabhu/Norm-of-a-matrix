@@ -1,4 +1,5 @@
-# Norm of a matrix
+# EXPERIMENT-07
+# NORM OF A MATRIX
 ## AIM :
 
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
